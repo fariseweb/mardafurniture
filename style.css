@@ -371,7 +371,7 @@ footer .credit {
   }
 }
 /* laptop */
-@media (max-width: 450px) {
+@media (max-width: 360px) {
   html {
     font-size: 52%;
   }
