@@ -34,7 +34,7 @@ body {
   z-index: 9999;
 }
 .navbar .navbar-logo {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 500;
   color: #0e0d0d;
   font-style: normal;
@@ -371,7 +371,7 @@ footer .credit {
   }
 }
 /* laptop */
-@media (max-width: 360px) {
+@media (max-width: 450px) {
   html {
     font-size: 52%;
   }
